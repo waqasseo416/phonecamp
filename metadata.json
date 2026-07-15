@@ -1,0 +1,6 @@
+{
+  "name": "Classifieds Marketplace",
+  "description": "A premium, fully-featured classified ads marketplace with buyer-seller chat, advanced search, ad creation flow, seller dashboards, and administration tools.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
