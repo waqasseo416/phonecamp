@@ -5,6 +5,7 @@
 
 [functions]
   node_bundle = true
+  external_node_modules = ["vite", "@tailwindcss/vite", "@vitejs/plugin-react", "esbuild"]
 
 [[redirects]]
   from = "/api/*"
